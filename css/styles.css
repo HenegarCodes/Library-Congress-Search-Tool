@@ -1,0 +1,22 @@
+*{
+    background-color: gray;;
+}
+
+body {
+    background-color: tan;
+    align-items: center;
+    
+}
+
+.container {
+    border-radius: 10px;
+    background-color: tan;
+}
+
+.btn,
+.input-group {
+    background-color: white;
+}
+.click-me-btn {
+    display: block;
+}
